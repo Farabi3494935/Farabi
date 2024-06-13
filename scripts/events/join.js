@@ -66,15 +66,15 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-ADMIN :MD JUBAED AHMED JOY 
+ADMIN :💥ফারাবী❤️‍🔥ইসলাম❤️‍🔥রনি💥
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/mdjubaet.ahmed.9
+https://www.facebook.com/farabi0173210
 
-🔵WHATSAPP NUMBER: wa.me/+8801709045888
+🔵WHATSAPP NUMBER: wa.me/+966531079542
 
-🟢SUPPORT EMAIL: www.mdjubaetahmed124@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
+🟢SUPPORT EMAIL: farabii708@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
 .catch(error => {
     console.error(error);
